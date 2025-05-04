@@ -35,11 +35,11 @@ This project analyzes over **100,000 medical appointments** in Brazil to identif
 ## 📝 Key Findings
 | Factor              | Observation                                      |
 |---------------------|--------------------------------------------------|
-| Gender              | Females had a no-show rate of 20.3%, males 20.0% |
-| Hypertension        | Associated with **lower** no-show rates          |
+| Gender              | Females had a no-show rate of 20.3%, males 19.9% |
+| Hypertension        | Associated with **hgher** no-show rates          |
 | Diabetes            | Slightly reduced no-show likelihood              |
-| Alcoholism          | **Increased** no-show risk (20.3%)               |
-| Age 20–30           | Highest no-show rate (~25%)                      |
+| Alcoholism          | **Increased** no-show risk (~30%)                |
+| Age 20–30           | Highest no-show counts                           |
 | SMS Reminders       | No significant change in behavior                |
 
 ---
